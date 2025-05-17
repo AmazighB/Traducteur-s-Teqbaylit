@@ -33,8 +33,8 @@ Ce projet a été réalisé dans le cadre d’un apprentissage personnel. Il vis
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/ton-utilisateur/traducteur-steqbaylit.git
-cd traducteur-steqbaylit
+git clone https://github.com/ton-utilisateur/traducteur-s-teqbaylit.git
+cd traducteur-s-teqbaylit
 npm install
 npm start
 ```
