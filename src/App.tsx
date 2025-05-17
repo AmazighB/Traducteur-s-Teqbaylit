@@ -32,7 +32,7 @@ function App() {
             </select>
             {/* Lien Github */}
             <a
-              href="https://github.com/ton-repo"  // Remplace par l’URL réelle de ton repo
+              href="https://github.com/AmazighB/Traducteur-s-Teqbaylit" 
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm text-white hover:underline"
@@ -42,7 +42,7 @@ function App() {
 
             {/* Lien API Doc */}
             <a
-              href="https://ton-api-doc.com"  // Remplace par l’URL réelle de ta doc API
+              href="https://translate.fedilab.app/docs/"  
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm text-white hover:underline"
