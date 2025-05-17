@@ -1,4 +1,5 @@
-# 🗣️ Traducteur s teqbaylit
+# 🗣️ Traducteur s teqbaylit [Visiter le lien :](https://tasuqilt.netlify.app)
+
 
 Un traducteur multilingue simple, moderne et accessible — **avec prise en charge de la langue kabyle (Taqbaylit)** 🇰🇧.  
 Ce projet a pour but d'encourager l'apprentissage, la découverte linguistique et la valorisation de la langue kabyle aux côtés d'autres langues internationales.
@@ -33,7 +34,7 @@ Ce projet a été réalisé dans le cadre d’un apprentissage personnel. Il vis
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/ton-utilisateur/traducteur-s-teqbaylit.git
+git clone https://github.com/AmazighB/Traducteur-s-Teqbaylit.git
 cd traducteur-s-teqbaylit
 npm install
 npm start
