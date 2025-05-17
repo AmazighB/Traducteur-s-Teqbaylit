@@ -26,7 +26,9 @@ Ce projet a été réalisé dans le cadre d’un apprentissage personnel. Il vis
 
 ## 🚀 Statut
 
-✅ Projet **prêt à l’usage**, mais **améliorations bienvenues** (ex. : détection automatique de la langue, support offline, design mobile optimisé).
+✅ Projet **prêt à l’usage**, mais **améliorations bienvenues** (ex. : détection automatique de la langue, design mobile optimisé).
+![image](https://github.com/user-attachments/assets/87a049bc-be96-4d2f-b0ef-66f6d99fd916)
+
 
 ## 📦 Installation
 
