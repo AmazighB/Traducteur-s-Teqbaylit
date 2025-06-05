@@ -1,5 +1,4 @@
-# 🗣️ Traducteur s teqbaylit <a href="https://tasuqilt.netlify.app" target="_blank">Visiter le lien</a>
-<a href="https://tasuqilt.netlify.app" target="_blank">Visiter le lien</a>
+# 🗣️ Traducteur s teqbaylit [Visiter le lien :](https://tasuqilt.netlify.app)
 
 Un traducteur multilingue simple, moderne et accessible — **avec prise en charge de la langue kabyle (Taqbaylit)** 🇰🇧.  
 Ce projet a pour but d'encourager l'apprentissage, la découverte linguistique et la valorisation de la langue kabyle aux côtés d'autres langues internationales.
